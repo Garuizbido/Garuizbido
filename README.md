@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Gabriel Ruiz 👋
+
+### I'm a Bachelor Student
+### studying Software Engineering and
+### Computer Science 
 
 <!--
 **Garuizbido/Garuizbido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
