@@ -3,7 +3,7 @@
 <img align='right' alt='JPG' src="https://www.pngitem.com/pimgs/m/376-3767417_transparent-computer-programming-png-png-download.png" height = "300" width = "300"/>
 
 ### I'm a Bachelor Student studying Software Engineering and Computer Science 
-
+------------------------------------------------------------------------------
 <!--
 **Garuizbido/Garuizbido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
