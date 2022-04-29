@@ -1,5 +1,5 @@
 # Hello, I'm Gabriel Ruiz 👋
-### \n
+============================
 ### I'm a Bachelor Student
 ### studying Software Engineering and
 ### Computer Science 
