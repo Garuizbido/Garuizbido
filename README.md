@@ -1,5 +1,7 @@
 # Hello, I'm Gabriel Ruiz 👋
 
+<img align='right' alt='PNG' src="https://c.neh.tw/thumb/f/720/m2i8Z5m2Z5m2b1N4.jpg">
+
 ### I'm a Bachelor Student studying Software Engineering and Computer Science 
 
 <!--
