@@ -1,6 +1,6 @@
 # Hello, I'm Gabriel Ruiz 👋
 
-<img align='right' alt='JPG' src="https://www.pngitem.com/pimgs/m/376-3767417_transparent-computer-programming-png-png-download.png" width = "400"/>
+<img align='right' alt='JPG' src="https://www.pngitem.com/pimgs/m/376-3767417_transparent-computer-programming-png-png-download.png" width = "300"/>
 
 ### I'm a Bachelor Student studying Software Engineering and Computer Science 
 
