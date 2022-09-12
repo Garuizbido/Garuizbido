@@ -4,7 +4,7 @@
 
 ### I'm a Bachelor Student studying Software Engineering and Computer Science 
 ------------------------------------------------------------------------------
-- 🤗[Checkout My Portfolio](https://garuizbido.github.io/portfolio/)
+- 🤗 [Checkout My Portfolio](https://garuizbido.github.io/portfolio/)
 - 🔭 I’m currently working on my school projects
 - 🌱 I’m currently learning Network Protocols and Node JS
 - 😄 Pronouns: He/Him
